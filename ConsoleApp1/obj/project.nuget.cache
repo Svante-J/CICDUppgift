@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sn2R4XSu5Ar5xxfaR4Y83T33Am+5AAZu9FRDDgze6GnLAYLJ+H/RGEMvF+kQ/6V3mhLrHYta6yFoi/twsztQcg==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\CICD kurs\\CICDUppgift\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svanths\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
